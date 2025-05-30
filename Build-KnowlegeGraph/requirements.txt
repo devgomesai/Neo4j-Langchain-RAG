@@ -1,0 +1,12 @@
+langchain
+langchain-neo4j
+langchain-ollama
+langchain-experimental
+neo4j
+python-dotenv
+langchain_community
+pypdf
+ipykernel
+pdfminer
+unstructured
+

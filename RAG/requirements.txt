@@ -1,0 +1,15 @@
+langchain
+langchain-community
+langchain-neo4j
+langchain-experimental
+unstructured[all-docs]
+pydantic
+lxml
+pytesseract
+json-repair
+wikipedia
+tiktoken
+neo4j
+python-dotenv
+yfiles_jupyter_graphs
+langchain-google-genai
